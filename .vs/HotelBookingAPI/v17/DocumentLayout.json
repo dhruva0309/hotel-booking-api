@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dhruva.somayaji\\source\\repos\\HotelBookingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC5D547-CB4B-46A9-9712-D38D2782948B}|HotelBookingAPI\\HotelBookingAPI.csproj|c:\\users\\dhruva.somayaji\\source\\repos\\hotelbookingapi\\hotelbookingapi\\controllers\\hotelbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC5D547-CB4B-46A9-9712-D38D2782948B}|HotelBookingAPI\\HotelBookingAPI.csproj|solutionrelative:hotelbookingapi\\controllers\\hotelbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC5D547-CB4B-46A9-9712-D38D2782948B}|HotelBookingAPI\\HotelBookingAPI.csproj|c:\\users\\dhruva.somayaji\\source\\repos\\hotelbookingapi\\hotelbookingapi\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC5D547-CB4B-46A9-9712-D38D2782948B}|HotelBookingAPI\\HotelBookingAPI.csproj|solutionrelative:hotelbookingapi\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC5D547-CB4B-46A9-9712-D38D2782948B}|HotelBookingAPI\\HotelBookingAPI.csproj|c:\\users\\dhruva.somayaji\\source\\repos\\hotelbookingapi\\hotelbookingapi\\models\\hotelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC5D547-CB4B-46A9-9712-D38D2782948B}|HotelBookingAPI\\HotelBookingAPI.csproj|solutionrelative:hotelbookingapi\\models\\hotelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC5D547-CB4B-46A9-9712-D38D2782948B}|HotelBookingAPI\\HotelBookingAPI.csproj|c:\\users\\dhruva.somayaji\\source\\repos\\hotelbookingapi\\hotelbookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC5D547-CB4B-46A9-9712-D38D2782948B}|HotelBookingAPI\\HotelBookingAPI.csproj|solutionrelative:hotelbookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelBookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Dhruva.somayaji\\source\\repos\\HotelBookingAPI\\HotelBookingAPI\\Controllers\\HotelBookingController.cs",
+              "RelativeDocumentMoniker": "HotelBookingAPI\\Controllers\\HotelBookingController.cs",
+              "ToolTip": "C:\\Users\\Dhruva.somayaji\\source\\repos\\HotelBookingAPI\\HotelBookingAPI\\Controllers\\HotelBookingController.cs",
+              "RelativeToolTip": "HotelBookingAPI\\Controllers\\HotelBookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:44:22.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dhruva.somayaji\\source\\repos\\HotelBookingAPI\\HotelBookingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HotelBookingAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Dhruva.somayaji\\source\\repos\\HotelBookingAPI\\HotelBookingAPI\\Program.cs",
+              "RelativeToolTip": "HotelBookingAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:43:24.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dhruva.somayaji\\source\\repos\\HotelBookingAPI\\HotelBookingAPI\\Data\\ApiContext.cs",
+              "RelativeDocumentMoniker": "HotelBookingAPI\\Data\\ApiContext.cs",
+              "ToolTip": "C:\\Users\\Dhruva.somayaji\\source\\repos\\HotelBookingAPI\\HotelBookingAPI\\Data\\ApiContext.cs",
+              "RelativeToolTip": "HotelBookingAPI\\Data\\ApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:41:58.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelBooking.cs",
+              "DocumentMoniker": "C:\\Users\\Dhruva.somayaji\\source\\repos\\HotelBookingAPI\\HotelBookingAPI\\Models\\HotelBooking.cs",
+              "RelativeDocumentMoniker": "HotelBookingAPI\\Models\\HotelBooking.cs",
+              "ToolTip": "C:\\Users\\Dhruva.somayaji\\source\\repos\\HotelBookingAPI\\HotelBookingAPI\\Models\\HotelBooking.cs",
+              "RelativeToolTip": "HotelBookingAPI\\Models\\HotelBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:41:16.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

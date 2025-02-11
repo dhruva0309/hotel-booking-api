@@ -1,0 +1,90 @@
+[
+  {
+    "ContainingType": "HotelBookingAPI.Controllers.HotelBookingController",
+    "Method": "CreateEdit",
+    "RelativePath": "api/HotelBooking/CreateEdit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "booking",
+        "Type": "HotelBookingAPI.Models.HotelBooking",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HotelBookingAPI.Models.HotelBooking",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HotelBookingAPI.Controllers.HotelBookingController",
+    "Method": "Delete",
+    "RelativePath": "api/HotelBooking/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelBookingAPI.Controllers.HotelBookingController",
+    "Method": "Get",
+    "RelativePath": "api/HotelBooking/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HotelBookingAPI.Models.HotelBooking",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HotelBookingAPI.Controllers.HotelBookingController",
+    "Method": "GetAll",
+    "RelativePath": "api/HotelBooking/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HotelBookingAPI.Models.HotelBooking, HotelBookingAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
